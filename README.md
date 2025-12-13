@@ -19,6 +19,7 @@
 ---
 
 ## 🧠 About Me
+
 - 🔭 Working with **Laravel, Vue.js, Inertia.js, React**
 - 🧠 Interested in **AI & Deep Learning**
 - 🌱 Learning **DevOps, System Design, MLOps basics**
@@ -30,6 +31,7 @@
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
@@ -40,12 +42,14 @@
 </p>
 
 ### 🧩 Backend
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
 </p>
 
 ### 🤖 AI / Deep Learning
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
@@ -53,6 +57,7 @@
 </p>
 
 ### ⚙️ Tools & Environment
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
@@ -68,14 +73,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ViperPanda&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ViperPanda&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViperPanda&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 
@@ -83,8 +87,9 @@
 
 <p>
   <a href="https://github.com/ViperPanda">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30"/>
+   </a>
+
   <!-- <a href="https://linkedin.com/in/yourusername">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
   </a>
